@@ -1,0 +1,98 @@
+# 来源说明
+
+## https://github.com/xiazeyu/live2d-widget-models:
+
+ - `live2d-chitose`
+ - `live2d-epsilon2_1`
+ - `live2d-gf`
+ - `live2d-haru/01 (use npm install --save live2d-widget-model-haru)`
+ - `live2d-haru/02 (use npm install --save live2d-widget-model-haru)`
+ - `live2d-haruto`
+ - `live2d-hibiki`
+ - `live2d-hijiki`
+ - `live2d-izumi`
+ - `live2d-koharu`
+ - `live2d-miku`
+ - `live2d-ni-j`
+ - `live2d-nico`
+ - `live2d-nietzsche`
+ - `live2d-nipsilon`
+ - `live2d-nito`
+ - `live2d-shizuku`
+ - `live2d-tororo`
+ - `live2d-tsumiki`
+ - `live2d-unitychan`
+ - `live2d-wanko`
+ - `live2d-z16`
+
+## https://github.com/xiaoski/live2d_models_collection
+
+ - `live2d-chiaki_kitty`
+ - `live2d-chitose`
+ - `live2d-date_16`
+ - `live2d-Epsilon`
+ - `live2d-hallo_16`
+ - `live2d-index`
+ - `live2d-jin`
+ - `live2d-kanzaki`
+ - `live2d-Kobayaxi`
+ - `live2d-kuroko`
+ - `live2d-len`
+ - `live2d-len_impact`
+ - `live2d-len_space`
+ - `live2d-len_swim`
+ - `live2d-mikoto`
+ - `live2d-ryoufuku`
+ - `live2d-saten`
+ - `live2d-seifuku`
+ - `live2d-shifuku`
+ - `live2d-shifuku2`
+ - `live2d-stl`
+ - `live2d-touma`
+ - `live2d-uiharu`
+ - `live2d-wed_16`
+
+## https://github.com/summerscar/live2dDemo
+
+ - `22.2017.cba-normal`
+ - `22.2017.newyear`
+ - `22.2017.school`
+ - `22.2017.summer.normal.1`
+ - `22.2017.tomo-bukatsu.high`
+ - `22.2017.tomo-bukatsu.low`
+ - `22.2017.valley`
+ - `22.2017.vdays`
+ - `22.2018.lover`
+ - `22.2018.spring`
+ - `22.default`
+ - `22.xmas.1`
+ - `22.xmas.2`
+ - `23.2017.cba-normal`
+ - `23.2017.newyear`
+ - `23.2017.school`
+ - `23.2017.summer.normal.1`
+ - `23.2017.tomo-bukatsu.high`
+ - `23.2017.tomo-bukatsu.low`
+ - `23.2017.valley`
+ - `23.2017.vdays`
+ - `23.2018.lover`
+ - `23.2018.spring`
+ - `23.default`
+ - `23.xmas.1`
+ - `23.xmas.2`
+ - `Bronya`
+ - `Epsilon2.1`
+ - `Gantzert_Felixander`
+ - `haru01`
+ - `haru02`
+ - `histoire`
+ - `iio`
+ - `kesyoban`
+ - `makoto0`
+ - `nepmaid`
+ - `penchan`
+ - `PLT`
+ - `poi`
+ - `tia`
+ - `yukari_model`
+ - `YuzukiYukari`
