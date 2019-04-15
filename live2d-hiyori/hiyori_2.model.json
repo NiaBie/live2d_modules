@@ -1,0 +1,42 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "hiyori",
+	"model": "model.moc",
+	"textures": [
+		"textures/texture_00.png"
+	],
+	"layout":
+	{
+		"center_x":-0.5,
+		"y":1,
+		"width":1.9
+	},
+	"motions":{
+        "idle":[        	
+			{"file":"motions/Shake0.mtn"},
+			{"file":"motions/Shake1.mtn"},
+			{"file":"motions/Shake2.mtn"},
+			{"file":"motions/Smile0.mtn"},
+			{"file":"motions/Smile1.mtn"},
+			{"file":"motions/Smile2.mtn"}
+        ],
+        "":[
+        	{"file":"motions/Angry0.mtn"},
+			{"file":"motions/Doubt0.mtn"},
+			{"file":"motions/Sad0.mtn"},
+			{"file":"motions/Shake0.mtn"},
+			{"file":"motions/Shake1.mtn"},
+			{"file":"motions/Shake2.mtn"},
+			{"file":"motions/Smile0.mtn"},
+			{"file":"motions/Smile1.mtn"},
+			{"file":"motions/Smile2.mtn"},
+			{"file":"motions/Suprise0.mtn"}
+        ],
+        "tap":[
+        	{"file":"motions/Angry0.mtn"},
+			{"file":"motions/Doubt0.mtn"},
+			{"file":"motions/Sad0.mtn"},
+        	{"file":"motions/Suprise0.mtn"}
+        ]
+    }
+}
